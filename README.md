@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elhatar
 - 👀 I’m interested in GameDev
-- 🌱 I’m currently learning C# (6m)
+- 🌱 I’m currently learning C# (>1y)
 - 💞️ I’m looking to collaborate on creating Unity games
 - 📫 How to reach me? darkfrend1@gmail.com
 
