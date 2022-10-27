@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning C++ (>1y)
 - 📫 How to reach me? darkfrend1@gmail.com
 
-Console.WriteLine("I <3 U, world!");
+Cout << "I hate this, world!";
